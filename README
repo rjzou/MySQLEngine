@@ -13,3 +13,5 @@ if __name__ == "__main__":
   data={'id':int(item['id']),'username':int(item['username'])}
   mysql_connection.update(table,data)
   print("数据已成功存储MySQL数据库中。")
+
+  
