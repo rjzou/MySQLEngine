@@ -1,8 +1,9 @@
-# 使用方法：
+# 使用方法如下：
 
 
 # 1.引入MySQLEngine
 from MySQLEngine import DBInterface
+
 
 
 # 2.直接使用
